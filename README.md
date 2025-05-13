@@ -1,8 +1,11 @@
-# 👋 ¡Hola! Soy Diego Alay
+# 💻 `print("Hello, world! I'm Diego 👋")`
 
 Bienvenido/a a mi repositorio personal. Aquí comparto mis proyectos y cosas que estoy aprendiendo. Me apasiona el desarrollo de software.
 
+![Computación GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
 ---
+
 
 ## 📂 Mis Proyectos
 
@@ -43,16 +46,25 @@ Bienvenido/a a mi repositorio personal. Aquí comparto mis proyectos y cosas que
 
 ## 🧰 Tecnologías que uso o estoy aprendiendo
 
-- **Lenguajes de programación:** HTML, C, Java, Python
-- **Bases de datos:** MySQL
-- **Herramientas:** Git, GitHub
 
----
+### 🖥️ Lenguajes de programación:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+</p>
 
-## 📫 Contacto
+### 🗄️ Bases de datos:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+</p>
 
-- **Correo institucional:** davier2003d@gmail.com  
-*Por motivos de privacidad no comparto correo personal u otros datos sensibles.*
+### ⚙️ Herramientas:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+</p>
 
 ---
 
@@ -63,9 +75,15 @@ Bienvenido/a a mi repositorio personal. Aquí comparto mis proyectos y cosas que
 - 🛠 Automatización con Python
 - 🌐 Desarrollo de APIs REST
 
----
+## 📫 Contacto
 
-## 🗂 Estructura de este repositorio
+<p align="left">
+  <a href="mailto:dalay@espol.edu.ec"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="32"/></a>
+  <a href="https://github.com/Dalay20"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="32"/></a>
+</p>
+
+
+## 📈 Estructura de este repositorio
 
 ```bash
 📁 proyectos/
