@@ -77,7 +77,7 @@ Bienvenido/a a mi repositorio personal. Aquí comparto mis proyectos y cosas que
 ---
 
 ## 🚀 Mi actividad en GitHub
-![Dalay20's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalay20&show_icons=true&theme=radical)
+![Dalay20's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalay20&show_icons=true&theme=transparent)
 
 ---
 
