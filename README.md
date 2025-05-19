@@ -68,9 +68,18 @@ Bienvenido/a a mi repositorio personal. Aquí comparto mis proyectos y cosas que
 - 🛠 Automatización con Python
 - 🌐 Desarrollo de APIs REST
 
+---
+
 ## 📫 Contacto
 
 [![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/Dalay20)
+
+---
+
+## 🚀 Mi actividad en GitHub
+![Dalay20's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalay20&show_icons=true&theme=radical)
+
+---
 
 ## 📚 Organización de carpetas
  ```bash 
