@@ -4,8 +4,6 @@ Bienvenido/a a mi repositorio personal. Aquí comparto mis proyectos y cosas que
 
 ![Computación GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
----
-
 ## 📂 Mis Proyectos
 
 ### 🔧 [CinemaSeat]( https://github.com/Dalay20/CinemaSeat)
@@ -18,8 +16,6 @@ Bienvenido/a a mi repositorio personal. Aquí comparto mis proyectos y cosas que
 - **Tecnologías:** Java
 - **Estado:** ✅ Completado 
 
----
-
 ### 🔧 [Concesionario](https://github.com/Dalay20/Concesionario.git)
 - **Descripción:** Aplicación de gestión para concesionarios de autos. Permite registrar vehículos, realizar búsquedas por marca y modelo, y gestionar el inventario de manera eficiente. La interfaz de usuario es sencilla y funcional, facilitando la interacción del usuario con el sistema.
 - **Colaborativo:** ✅ Proyecto en equipo.
@@ -30,7 +26,6 @@ Bienvenido/a a mi repositorio personal. Aquí comparto mis proyectos y cosas que
 - **Tecnologías:** Java
 - **Estado:** ✅ Completado
 
----
 
 ### 🔧 [Conversiones](https://github.com/Dalay20/Conversiones.git)
 - **Descripción:** El sistema calcula y muestra el resultado de la conversión de manera eficiente. Permite realizar conversiones entre diferentes unidades de medida, como temperatura, longitud y masa. La aplicación ofrece una interfaz de línea de comandos donde el usuario puede seleccionar el tipo de conversión y proporcionar los valores correspondientes. 
@@ -41,10 +36,7 @@ Bienvenido/a a mi repositorio personal. Aquí comparto mis proyectos y cosas que
 - **Tecnologías:** Lenguaje C, Ensamblador MIPS
 - **Estado:** ✅ Completado
 
----
-
 ## 🧰 Tecnologías que uso o estoy aprendiendo
-
 
 ### 🖥️ Lenguajes de programación:
 [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
@@ -59,8 +51,6 @@ Bienvenido/a a mi repositorio personal. Aquí comparto mis proyectos y cosas que
 [Git](https://git-scm.com/)  
 [GitHub](https://github.com/)
 
----
-
 ## 📌 Objetivos y temas que me interesan
 
 - 💡 Desarrollo Full Stack
@@ -68,20 +58,16 @@ Bienvenido/a a mi repositorio personal. Aquí comparto mis proyectos y cosas que
 - 🛠 Automatización con Python
 - 🌐 Desarrollo de APIs REST
 
----
-
 ## 📫 Contacto
 
 [![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/Dalay20)
 
----
-
 ## 🚀 Mi actividad en GitHub
-![Dalay20's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalay20&show_icons=true&theme=transparent)
 
----
+![Estadísticas de GitHub de Dalay20](https://github-readme-stats.vercel.app/api?username=Dalay20&show_icons=true&theme=tokyonight&hide=contribs)
 
 ## 📚 Organización de carpetas
+
  ```bash 
  proyectos/ 
  ├──  CinemaSeat/ 
@@ -91,5 +77,4 @@ Bienvenido/a a mi repositorio personal. Aquí comparto mis proyectos y cosas que
  ├── Conversiones/ 
    └── README.md 
  ``` 
-
-
+ 
