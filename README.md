@@ -6,7 +6,6 @@ Bienvenido/a a mi repositorio personal. Aquí comparto mis proyectos y cosas que
 
 ---
 
-
 ## 📂 Mis Proyectos
 
 ### 🔧 [CinemaSeat]( https://github.com/Dalay20/CinemaSeat)
@@ -48,23 +47,17 @@ Bienvenido/a a mi repositorio personal. Aquí comparto mis proyectos y cosas que
 
 
 ### 🖥️ Lenguajes de programación:
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-</p>
+[HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
+[C](https://en.wikipedia.org/wiki/C_(programming_language))  
+[Java](https://www.java.com/)  
+[Python](https://www.python.org/)
 
 ### 🗄️ Bases de datos:
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-</p>
+[MySQL](https://www.mysql.com/)
 
 ### ⚙️ Herramientas:
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-</p>
+[Git](https://git-scm.com/)  
+[GitHub](https://github.com/)
 
 ---
 
@@ -77,21 +70,17 @@ Bienvenido/a a mi repositorio personal. Aquí comparto mis proyectos y cosas que
 
 ## 📫 Contacto
 
-<p align="left">
-  <a href="mailto:dalay@espol.edu.ec"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="32"/></a>
-  <a href="https://github.com/Dalay20"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="32"/></a>
-</p>
+[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/Dalay20)
 
-
-## 📈 Estructura de este repositorio
-
-```bash
-📁 proyectos/
-├── CinemaSeat/
-│   └── README.md
-├── Concesionario/
-│   └── README.md
-├── Conversiones/
-│   └── README.md
+## 📚 Organización de carpetas
+ ```bash 
+ proyectos/ 
+ ├──  CinemaSeat/ 
+ │ └── README.md 
+ ├── Concesionario/ 
+ │ └── README.md 
+ ├── Conversiones/ 
+   └── README.md 
+ ``` 
 
 
